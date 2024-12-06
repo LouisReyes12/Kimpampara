@@ -1,2 +1,2 @@
 # Faveplaces
-Baguio
+Tokyo Japan
