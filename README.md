@@ -1,2 +1,2 @@
-# MyDream
-To be succesful data analyst
+# Title Proposal
+Enhancing the inventory with sms notification
