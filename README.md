@@ -1,2 +1,2 @@
-# Faveplaces
-Tokyo Japan
+# MyDream
+To be succesful data analyst
