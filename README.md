@@ -1,2 +1,3 @@
-# Title Proposal
-Enhancing the inventory with sms notification
+# FaveGame
+1. CODM
+2. ML
