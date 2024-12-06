@@ -1,2 +1,2 @@
-# Favefood
-Butter Shrimp
+# Faveplaces
+Baguio
